@@ -1,5 +1,5 @@
 # exiftool-document-ancestors-scan-windows-automation
-Microsoft Windows Batch script that perform recursive scanning ( within a folder structure ) for files containing `XMP-Photoshop:DocumentAncestors` metadata greater than 100 values. Script includes logging , customizable email notifications , as well as the capability for predetermined scheduling ( _via the Microsoft Windows Task Scheduler_ ).
+Microsoft Windows Batch script that perform recursive scanning ( _within a folder structure_ ) for files containing `XMP-Photoshop:DocumentAncestors` metadata greater than 100 values. Script includes logging , customizable email notifications , as well as the capability for predetermined scheduling ( _via the Microsoft Windows Task Scheduler_ ).
 
 #### Requirements :
 * ExifTool - https://exiftool.org/install.html
