@@ -1,0 +1,1 @@
+# exiftool-document-ancestors-scan-windows-automation
