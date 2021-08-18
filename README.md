@@ -7,7 +7,7 @@ Microsoft Windows Batch script that perform recursive scanning ( _within a folde
 
 ## Installation Procedure :
 
-#### 3. BATCH FILE CONFIGURATION
+#### 1. BATCH FILE CONFIGURATION
 * **`ExifTool_Scan.cmd`**
 
   * `exiftoollocation` = `C:\Windows`
@@ -28,3 +28,5 @@ Microsoft Windows Batch script that perform recursive scanning ( _within a folde
     * Email - From:
   * `emailsubject` = `"Automation Notification: VAULT Backup Log"`
     * Email - Subject:
+
+#### 2. Detailed information regarding files that may contain "inflated" `XMP-Photoshop:DocumentAncestors` metadata can be found here : https://prepression.blogspot.com/2017/06/metadata-bloat-photoshopdocumentancestors.html
