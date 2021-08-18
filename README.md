@@ -2,7 +2,6 @@
 Microsoft Windows Batch script that includes logging , customizable email notifications , as well as the capability for predetermined scheduling ( _via the Microsoft Windows Task Scheduler_ ).
 
 #### Requirements :
-* 
 * ExifTool - https://exiftool.org/install.html
 * Blat ( _64bit_ ) - https://www.blat.net
 
@@ -17,7 +16,9 @@ Microsoft Windows Batch script that includes logging , customizable email notifi
     * Blat installation location.
   * `scanfolder` = `D:\ASSETS`
     * Folder location of Vault backups.
-  * `backuplogfilename` = `VAULT_Backup_Log.txt`
+  * `scanlogfolder` = `D:\ExifTool Scan`
+    * Folder location of Vault backups.
+  * `scanlogfilename` = `ExifTool_Scan_Log.txt`
     * Filename for the Vault Backup log.
   * `emailserver` = `mail.example.com`
     * Email - Server
