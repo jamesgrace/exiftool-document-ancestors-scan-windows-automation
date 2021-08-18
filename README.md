@@ -11,17 +11,17 @@ Microsoft Windows Batch script that includes logging , customizable email notifi
 * **`ExifTool_Scan.cmd`**
 
   * `exiftoollocation` = `C:\Windows`
-    * 7-Zip installaiton location.
+    * ExifTool installaiton location.
   * `blatlocation` = `C:\Program Files\Blat`
     * Blat installation location.
   * `scanfolder` = `D:\ASSETS`
-    * Folder location of Vault backups.
+    * Folder location containing files to be scanned.
   * `scanlogfolder` = `D:\ExifTool Scan`
-    * Folder location of Vault backups.
+    * Folder location containing scan logs.
   * `scanlogfilename` = `ExifTool_Scan_Log.txt`
-    * Filename for the Vault Backup log.
+    * Filename for the scan log.
   * `emailserver` = `mail.example.com`
-    * Email - Server
+    * Email - Server:
   * `emailto` = `recipient@example.com`
     * Email - To:
   * `emailfrom` = `server_noreply@example.com`
