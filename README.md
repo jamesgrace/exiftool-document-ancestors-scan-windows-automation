@@ -26,7 +26,7 @@ Microsoft Windows Batch script that performs recursive scanning ( _within a fold
     * Email - To:
   * `emailfrom` = `server_noreply@example.com`
     * Email - From:
-  * `emailsubject` = `"Automation Notification: VAULT Backup Log"`
+  * `emailsubject` = `"Automation Notification: ExifTool Scan Log"`
     * Email - Subject:
 
 :star: Detailed information regarding files that may contain "inflated" `XMP-Photoshop:DocumentAncestors` metadata can be found here : https://prepression.blogspot.com/2017/06/metadata-bloat-photoshopdocumentancestors.html
