@@ -17,9 +17,9 @@ set blatlocation=C:\Program Files\Blat
 
 set scanfolder=D:\ASSETS
 
-set scanlogfolder=D:\ExifTool Scan
+set scanlogfolder=D:\Ancestors Scan
 
-set scanlogfilename=ExifTool_Scan_Log.txt
+set scanlogfilename=Ancestors_Scan_Log.txt
 
 set emailserver=mail.example.com
 
@@ -27,7 +27,7 @@ set emailto=recipient@example.com
 
 set emailfrom=server_noreply@example.com
 
-set emailsubject="Automation Notification: ExifTool Scan Log"
+set emailsubject="Automation Notification: Ancestors Scan Log"
 
 
 REM - - - - - - - - - - - - - - - - - - - - - - - - -
