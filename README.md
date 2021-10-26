@@ -8,7 +8,7 @@ Microsoft Windows Batch script that performs recursive scanning ( _within a fold
 ## Installation Procedure :
 
 #### 1. BATCH FILE CONFIGURATION
-* **`ExifTool_Scan.cmd`**
+* **`Ancestors_Scan.cmd`**
 
   * `exiftoollocation` = `C:\Windows`
     * ExifTool installaiton location.
@@ -16,9 +16,9 @@ Microsoft Windows Batch script that performs recursive scanning ( _within a fold
     * Blat installation location.
   * `scanfolder` = `D:\ASSETS`
     * Folder location containing files to be scanned.
-  * `scanlogfolder` = `D:\ExifTool Scan`
+  * `scanlogfolder` = `D:\Ancestors Scan`
     * Folder location containing scan logs.
-  * `scanlogfilename` = `ExifTool_Scan_Log.txt`
+  * `scanlogfilename` = `Ancestors_Scan_Log.txt`
     * Filename for the scan log.
   * `emailserver` = `mail.example.com`
     * Email - Server:
@@ -26,7 +26,7 @@ Microsoft Windows Batch script that performs recursive scanning ( _within a fold
     * Email - To:
   * `emailfrom` = `server_noreply@example.com`
     * Email - From:
-  * `emailsubject` = `"Automation Notification: ExifTool Scan Log"`
+  * `emailsubject` = `"Automation Notification: Ancestors Scan Log"`
     * Email - Subject:
 
 :star: Detailed information regarding files that may contain "inflated" `XMP-Photoshop:DocumentAncestors` metadata can be found here : https://prepression.blogspot.com/2017/06/metadata-bloat-photoshopdocumentancestors.html
