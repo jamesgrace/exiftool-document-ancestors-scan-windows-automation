@@ -11,7 +11,7 @@ Microsoft Windows Batch script that performs recursive scanning ( _within a fold
 * **`Ancestors_Scan.cmd`**
 
   * `exiftoollocation` = `C:\Windows`
-    * ExifTool installaiton location.
+    * ExifTool installation location.
   * `blatlocation` = `C:\Program Files\Blat`
     * Blat installation location.
   * `scanfolder` = `D:\ASSETS`
